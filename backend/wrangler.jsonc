@@ -13,6 +13,14 @@
 	"upload_source_maps": true,
 	"compatibility_flags": [
 		"nodejs_compat"
+	],
+	"d1_databases": [
+		{
+			"binding": "t2_rental_database",
+			"database_name": "t2-rental-database",
+			"database_id": "f90da44b-8369-406f-a22d-ba65e273eec0",
+			"remote": true
+		}
 	]
 	/**
 	 * Smart Placement
