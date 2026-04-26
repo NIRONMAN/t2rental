@@ -21,6 +21,16 @@
 			"database_id": "f90da44b-8369-406f-a22d-ba65e273eec0",
 			"remote": true
 		}
+	],
+	"vars": {
+		"GOOGLE_CLIENT_ID": "replace-with-google-client-id"
+	},
+	"kv_namespaces": [
+		{
+			"binding": "cache_kv",
+			"id": "1da7fceb55284bddad1256785ae13ba5",
+			"remote": true
+		}
 	]
 	/**
 	 * Smart Placement
