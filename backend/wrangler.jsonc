@@ -22,9 +22,7 @@
 			"remote": true
 		}
 	],
-	"vars": {
-		"GOOGLE_CLIENT_ID": "replace-with-google-client-id"
-	},
+	
 	"kv_namespaces": [
 		{
 			"binding": "cache_kv",
